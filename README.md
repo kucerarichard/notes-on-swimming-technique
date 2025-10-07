@@ -173,7 +173,7 @@
 - counter the anterior pelvic tilt with specific exercises
 - core work pilates mini-superset:  hundreds - side leg lifts - alternating leg+arm coordinated lifts 
 - pull in abdominals at the b-line point defined by iliac crests of hip bones, below navel
-- do not strain especially in neck, avoid building intraocular pressure, avoid full pilates set
+- do not strain especially in neck, avoid building intraocular pressure, avoid full pilates/yoga sets
 
 ---
 
@@ -205,6 +205,7 @@
 - bent-arm front raise 
 - stretching arm held to opposite side 
 - 40% magnesium oil and dmso, or just straight magnesium oil
+- go easy on set frequency,  after the injury has healed once-a-week at most for maintenance
 
 ---
 
