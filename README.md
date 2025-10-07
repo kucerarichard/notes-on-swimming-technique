@@ -286,7 +286,8 @@ Compose interval sets
 - 2xSuper500 
 - 1xSuper1000 
 - 1xSuper2000
-- Super1000+Super500. 
+- Super1000+Super500.
+- 1xSuper500 (short relaxed set for sore/strained days)
 
 ---
 
