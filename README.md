@@ -583,7 +583,7 @@ To improve your score you need to keep exactly the same stroke length, but take 
 
 ## Beaches and Gold Country
 
-!(images/places/0-cover.jpeg)
+![](images/places/0-cover.jpeg)
 
 ---
 
