@@ -6,6 +6,10 @@
 
 ---
 
+![](images/places/0-cover.jpeg)
+
+---
+
 ## Flow Attitude: Intro Talk by Zhao Youbin
 
     Next I will talk about the characteristics of Yang's Tai Chi. 
@@ -572,18 +576,13 @@ To improve your score you need to keep exactly the same stroke length, but take 
 
 ## Swimming Holes
 
+- https://www.swimmingholes.org/ 
 - Look for swimming holes with current 
 - snowmelt rivers
 - slime-covered boulders (North Fork American River)
 - Set up and launch from a boulder and crawl or butterfly 
 - Use slime-covered boulders while using defensive swimming position
 - No Standing, avoid arm, foot and leg entrapment.
-
----
-
-## Beaches and Gold Country
-
-![](images/places/0-cover.jpeg)
 
 ---
 
