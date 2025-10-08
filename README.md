@@ -185,6 +185,10 @@
 
 ---
 
+![](images/places/2-b-beach.jpeg)
+
+---
+
 ## Pelvic tilt 
 
 - fingertips-to-toes C-shape with the fly
