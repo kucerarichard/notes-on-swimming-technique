@@ -169,6 +169,10 @@
 
 ---
 
+![](images/places/1-beaches.jpeg)
+
+---
+
 ## C-Shape
 
 - pelvis leveling
