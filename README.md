@@ -228,58 +228,6 @@
 
 ---
 
-## Swimming Holes
-
-- Look for swimming holes with current 
-- snowmelt rivers
-- slime-covered boulders (North Fork American River)
-- Set up and launch from a boulder and crawl or butterfly 
-- Use slime-covered boulders while using defensive swimming position
-- No Standing, avoid arm, foot and leg entrapment.
-
----
-
-## Defensive swimming 
-
-- conserves energy
-- float on your back and use backstroke techniques to navigate to shore
-- keep feet on the surface and use them as shock absorbers to bounce off rocks
-- over a large drop or falls curl into a ball to avoid entrapment
-- grab breaths of air when available, before getting submerged
-- laid back position 
-- aggressive swimming to get from point a to point b 
-- for strainer flip from your back to your belly and kick it into freestyle. Pretend you are a boat and 
-- use ferry angle to cross fast moving current 
-- to break an eddy fence, barrel roll over it 
-- aggressive swimming is when you can't avoid a strainer
-- go head first towards the strainer as fast as you can
-- when you reach the strainer, push down on it and dive over the strainer
-
----
-
-## Cold Shock
-
-### In very cold water (around 5˚C), even strong swimmers are unable to keep afloat for more than a few minutes. 
-
-- This is because ‘cold shock’ brings about rapid breathing, which leads to difficulty in co-ordinating breathing with swimming. 
-- Many fatalities in inland water are probably caused by the victim’s inability to get out because of steep sloping sides.
-- Lightweight everyday clothing can substantially reduce heat loss by preventing the continuous movement of cold water around the body.
-
-### If you find yourself in cold water:
-- Keep calm. You will probably experience “cold shock” which affects the breathing and coordination. It is possible that you will be able to regain control after a short time.
-- Float on your back and adopt the HELP (Heat Escape Lessening Posture) position which will prevent the loss of body heat.
-- If there is more than one of you, adopt the HUDDLE position to retain body heat communally.
-- Hold on to support or float quietly facing away from the waves to prevent the water splashing on your face.
-- If you can, find some way of getting out of the water as quickly as possible – onto a floating object – or the shore/side.
-- Try and keep your head above water. Intermittent submersion of the head will increase heat loss.
-- Do not swim unless you are forced to do so to keep afloat or to get clear of danger.
-- Do not try to swim for the shore, unless you are a good swimmer and the shore is within reasonable distance e.g. 200 metres in cold water, 50 metres in very cold water.
-- Do not move more than is absolutely necessary.
-- Do not attempt to exercise to keep warm.
-- Do not remove clothing, except items that interfere with flotation (e.g. heavy overcoats, boots).
-
----
-
 ## WORKOUT STRUCTURE
 
 Compose interval sets 
@@ -621,3 +569,62 @@ To improve your score you need to keep exactly the same stroke length, but take 
 - Take your Heart Rate or estimate your Perceived Exertion after a good score. A score of 64 with a HR of 120 is much better than a 64 with a HR of 150.
 
 ---
+
+## Swimming Holes
+
+- Look for swimming holes with current 
+- snowmelt rivers
+- slime-covered boulders (North Fork American River)
+- Set up and launch from a boulder and crawl or butterfly 
+- Use slime-covered boulders while using defensive swimming position
+- No Standing, avoid arm, foot and leg entrapment.
+
+---
+
+## Beaches and Gold Country
+
+!(images/places/0-cover.jpeg)
+
+---
+
+## Defensive swimming 
+
+- conserves energy
+- float on your back and use backstroke techniques to navigate to shore
+- keep feet on the surface and use them as shock absorbers to bounce off rocks
+- over a large drop or falls curl into a ball to avoid entrapment
+- grab breaths of air when available, before getting submerged
+- laid back position 
+- aggressive swimming to get from point a to point b 
+- for strainer flip from your back to your belly and kick it into freestyle. Pretend you are a boat and 
+- use ferry angle to cross fast moving current 
+- to break an eddy fence, barrel roll over it 
+- aggressive swimming is when you can't avoid a strainer
+- go head first towards the strainer as fast as you can
+- when you reach the strainer, push down on it and dive over the strainer
+
+---
+
+## Cold Shock
+
+### In very cold water (around 5˚C), even strong swimmers are unable to keep afloat for more than a few minutes. 
+
+- This is because ‘cold shock’ brings about rapid breathing, which leads to difficulty in co-ordinating breathing with swimming. 
+- Many fatalities in inland water are probably caused by the victim’s inability to get out because of steep sloping sides.
+- Lightweight everyday clothing can substantially reduce heat loss by preventing the continuous movement of cold water around the body.
+
+### If you find yourself in cold water:
+- Keep calm. You will probably experience “cold shock” which affects the breathing and coordination. It is possible that you will be able to regain control after a short time.
+- Float on your back and adopt the HELP (Heat Escape Lessening Posture) position which will prevent the loss of body heat.
+- If there is more than one of you, adopt the HUDDLE position to retain body heat communally.
+- Hold on to support or float quietly facing away from the waves to prevent the water splashing on your face.
+- If you can, find some way of getting out of the water as quickly as possible – onto a floating object – or the shore/side.
+- Try and keep your head above water. Intermittent submersion of the head will increase heat loss.
+- Do not swim unless you are forced to do so to keep afloat or to get clear of danger.
+- Do not try to swim for the shore, unless you are a good swimmer and the shore is within reasonable distance e.g. 200 metres in cold water, 50 metres in very cold water.
+- Do not move more than is absolutely necessary.
+- Do not attempt to exercise to keep warm.
+- Do not remove clothing, except items that interfere with flotation (e.g. heavy overcoats, boots).
+
+---
+
