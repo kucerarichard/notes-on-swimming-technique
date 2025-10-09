@@ -570,18 +570,6 @@ To improve your score you need to keep exactly the same stroke length, but take 
 
 ---
 
-## Swimming Holes
-
-- https://www.swimmingholes.org/ 
-- Look for swimming holes with current 
-- snowmelt rivers
-- slime-covered boulders (North Fork American River)
-- Set up and launch from a boulder and crawl or butterfly 
-- Use slime-covered boulders while using defensive swimming position
-- No Standing, avoid arm, foot and leg entrapment.
-
----
-
 ## Defensive swimming 
 
 - conserves energy
@@ -624,6 +612,16 @@ To improve your score you need to keep exactly the same stroke length, but take 
 ---
 
 ## Places We Swim
+
+---
+
+- https://www.swimmingholes.org/ 
+- Look for swimming holes with current 
+- snowmelt rivers
+- slime-covered boulders (North Fork American River)
+- Set up and launch from a boulder and crawl or butterfly 
+- Use slime-covered boulders while using defensive swimming position
+- No Standing, avoid arm, foot and leg entrapment.
 
 ---
 
