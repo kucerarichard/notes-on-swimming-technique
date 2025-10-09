@@ -6,10 +6,6 @@
 
 ---
 
-![](images/places/0-cover.jpeg)
-
----
-
 ## Flow Attitude: Intro Talk by Zhao Youbin
 
     Next I will talk about the characteristics of Yang's Tai Chi. 
@@ -169,10 +165,6 @@
 
 ---
 
-![](images/places/1-beaches.jpeg)
-
----
-
 ## C-Shape
 
 - pelvis leveling
@@ -182,10 +174,6 @@
 - core work pilates mini-superset:  hundreds - side leg lifts - alternating leg+arm coordinated lifts 
 - pull in abdominals at the b-line point defined by iliac crests of hip bones, below navel
 - do not strain especially in neck, avoid building intraocular pressure, avoid full pilates/yoga sets
-
----
-
-![](images/places/2-b-beach.jpeg)
 
 ---
 
@@ -635,3 +623,34 @@ To improve your score you need to keep exactly the same stroke length, but take 
 
 ---
 
+## Places We Swim
+
+---
+
+- Chinatown Y San Francisco Salt Water Pool CA
+- Bud Kearns Memorial Pool Balboa Park San Diego CA
+- Pasadena Y Baltimore MD
+- Natelli Family Pool Frederick Y MD
+- Empire Beach and Sleeping Bear MI
+- Black's Beach San Diego CA
+- Donner Lake Truckee CA
+- Ocean City MD
+
+---
+
+![](images/places/0-cover.jpeg)
+![](images/places/1-beaches.jpeg)
+![](images/places/2-b-beach.jpeg)
+![](images/places/3-lvrs-pnt.jpeg)
+![](images/places/4-buttermilk.jpeg)
+![](images/places/5-rivers.jpeg)
+![](images/places/6-gold-country.jpeg)
+![](images/places/7-am-river-conf.jpeg)
+![](images/places/8-b-sur-riv-gorg.jpeg)
+![](images/places/9-carlon-falls.jpeg)
+![](images/places/10-emerald-pools.jpeg)
+![](images/places/11-gualala-riv.jpeg)
+![](images/places/12-hwy-49-hoyts.jpeg)
+![](images/places/13-prospectors-pool.jpeg)
+![](images/places/14-purd-cross-to-china.jpeg)
+![](images/places/15-sm-river-conf.jpeg)
